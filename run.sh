@@ -12,7 +12,5 @@ git clone https://github.com/Yamina229/newrep.git
 # Change directory to the cloned repository
 cd newrep
 
-# Execute start.sh 5 times
-for i in {1..5}; do
-  source start.sh
-done
+# Execute start.sh 
+source start.sh
